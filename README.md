@@ -8,7 +8,7 @@ Para podermos utilizar o Pentaho, devemos ter o ambiente Java instalado e config
 
 Então vamos lá...
 
-1. Baixe o pacote JDK pelo [clicando aqui](http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html) ou pelo terminal linux.
+1. Baixe o pacote JDK pelo [clicando aqui](http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html) ou pelo terminal Linux.
 
 2. Instale o pacote JDK
 
@@ -18,7 +18,7 @@ Então vamos lá...
   * PATH
   * CLASSPATH
 
-  
+
 ##Pentaho BI Server
 
 
@@ -32,5 +32,7 @@ Então vamos lá...
 
 *Obs: Para parar o servidor, basta executar o **stop-pentaho.sh** (Linux) ou **stop-pentaho.bat** (Windows)
 
-  
+5. Se tudo ocorrer como previsto, você já pode acessar o BI Server pelo endereço [http://localhost:8080/pentaho](http://localhost:8080/pentaho) e realizar o login com o usuário adminstrador:
 
+  * Usuário: joe
+  * Senha: password
