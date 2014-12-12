@@ -51,3 +51,15 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
   * Usuário: admin
   * Senha: password
 
+
+**Pentaho Data Integration
+
+1. Acesse o diretório do Pentaho no [SouceForce](http://sourceforge.net/projects/pentaho/files/?source=navbar)
+
+2. Baixe o Data Integration (.zip para Windows ou tar.gz para Linux)
+
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server e o Administration Console.
+
+4. Inicie o PDI executando o arquivo **spoon.sh** (Linux) ou *spoon.bat** (Windows)
+
+
