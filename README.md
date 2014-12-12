@@ -26,7 +26,7 @@ Então vamos lá...
 
 2. Baixe o BI Server (.zip para Windows ou tar.gz para Linux)
 
-3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão)
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do Pentaho no diretório *opt*, por problemas de permissão)
 
 4. Inicie o Pentaho executando o arquivo **start-pentaho.sh** (Linux) ou o arquivo **start-pentaho.bat** (Windows) que se encontra na pasta *biserver-ce*
 
@@ -58,7 +58,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 2. Baixe o Data Integration (.zip para Windows ou tar.gz para Linux)
 
-3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server e o Administration Console.
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do Pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server e o Administration Console.
 
 4. Inicie o PDI executando o arquivo **spoon.sh** (Linux) ou *spoon.bat** (Windows)
 
@@ -69,9 +69,10 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 2. Baixe o Schema Workbench (.zip para Windows ou tar.gz para Linux)
 
-3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server, Administration Console e do Data Integration.
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do Pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server, Administration Console e do Data Integration.
 
 4. Inicie o Schema Workbench executando o arquivo **workbench.sh** (Linux) ou *workbench.bat** (Windows)
 
 
 
+###Fim!
