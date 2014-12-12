@@ -35,7 +35,7 @@ Então vamos lá...
   * Usuário: joe
   * Senha: password
 
-**Obs:** Para parar o servidor, basta executar o *stop-pentaho.sh* (Linux) ou **stop-pentaho.bat* (Windows)
+**Obs:** Para parar o servidor, basta executar o *stop-pentaho.sh* (Linux) ou *stop-pentaho.bat* (Windows)
 
 
 ##Pentaho Administration Console
