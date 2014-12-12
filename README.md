@@ -74,4 +74,19 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 
 
-###Fim!
+##Outras Informações
+
+Para que as conexões com o banco de dados ocorram faz-se necessário a instalação dos repectivos Drivers.
+
+
+###Postgres
+
+Caso queira utilizar o PostgreSQL, siga os passos abaixo:
+
+1. Faça o download o JDBC do PostgreSQL [clicando aqui](http://jdbc.postgresql.org/)
+
+2. Adicione-o nos seguintes diretórios:
+
+  - **BI Server:** /biserver-ce/tomcat/lib
+  - ** Administration Console :** /administration-console/jdbc
+  - **Schema Workbench:** /schema-workbench/drivers
