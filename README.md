@@ -21,7 +21,7 @@ Então vamos lá...
 
 ##Pentaho BI Server
 
-1. Acesse o diretório do Pentaho no [SouceForce](http://sourceforge.net/projects/pentaho/files/?source=navbar)
+1. Acesse o diretório do Pentaho no [SourceForge](http://sourceforge.net/projects/pentaho/files/?source=navbar)
 
 2. Baixe o BI Server (.zip para Windows ou tar.gz para Linux)
 
@@ -53,7 +53,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 ##Pentaho Data Integration
 
-1. Acesse o diretório do Pentaho no [SouceForce](http://sourceforge.net/projects/pentaho/files/?source=navbar)
+1. Acesse o diretório do Pentaho no [SourceForge](http://sourceforge.net/projects/pentaho/files/?source=navbar)
 
 2. Baixe o Data Integration (.zip para Windows ou tar.gz para Linux)
 
@@ -64,7 +64,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 ##Schema Workbench
 
-1. Acesse o diretório do Modrian no [SouceForce](http://sourceforge.net/projects/mondrian/files/?source=navbar)
+1. Acesse o diretório do Modrian no [SourceForge](http://sourceforge.net/projects/mondrian/files/?source=navbar)
 
 2. Baixe o Schema Workbench (.zip para Windows ou tar.gz para Linux)
 
