@@ -34,7 +34,7 @@ Então vamos lá...
   * Usuário: joe
   * Senha: password
 
-**Obs:** Para parar o servidor, basta executar o *stop-pentaho.sh* (Linux) ou *stop-pentaho.bat* (Windows)
+**Obs.:** Para parar o servidor, basta executar o *stop-pentaho.sh* (Linux) ou *stop-pentaho.bat* (Windows)
 
 
 ##Pentaho Administration Console
@@ -48,7 +48,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
   * Usuário: admin
   * Senha: password
 
-**Obs:** Para parar o servidor, basta executar o *stop-pac.sh* (Linux) ou *stop-pac.bat* (Windows)
+**Obs.:** Para parar o servidor, basta executar o *stop-pac.sh* (Linux) ou *stop-pac.bat* (Windows)
 
 
 ##Pentaho Data Integration
@@ -76,9 +76,11 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 ##Outras Informações
 
-Para que as conexões com o banco de dados ocorram, faz-se necessário a instalação dos repectivos Drivers. Caso queira utilizar o PostgreSQL, siga os passos abaixo:
+###Banco de Dados
 
-###Postgres
+Para que as conexões com o banco de dados ocorram, faz-se necessário a instalação dos seus repectivos Drivers. Caso queira utilizar o PostgreSQL, siga os passos abaixo:
+
+####Postgres
 
 1. Faça o download o JDBC do PostgreSQL [clicando aqui](http://jdbc.postgresql.org/)
 
@@ -88,4 +90,26 @@ Para que as conexões com o banco de dados ocorram, faz-se necessário a instala
   - **Administration Console :** /administration-console/jdbc
   - **Schema Workbench:** /schema-workbench/drivers
 
-####Fim!!!
+###Plugins
+
+O Pentaho possui um grande variedade de Plugins disponíveis na sua [Marketplace](http://www.pentaho.com/marketplace/). Abaixo, listo alguns plugins que podem ajudar no desenvolvimento de sua solução:
+
+####Saiku Analytics
+
+Saiku é uma suíte de análise modular, de código aberto, oferecendo OLAP leve que permanece facilmente incorporável, extensível e configurável. 
+
+####Community Dashboards Framework
+
+É um mecanismo que permite a criação de Dashboards amigáveis, poderosos e totalmente caracterizado em cima do servidor Pentaho Business Intelligence.
+
+###Versão Compactada
+
+Abaixo estou compartilhando a versão compactada que tenho utilizado para **estudos**. 
+
+[Clique aqui para realiza o Download](https://drive.google.com/open?id=0B8vfl7nDJrwYOUc1Nng0S0FieVE&authuser=0)
+
+**Obs.:** Essa versão compactada foi configurada através do Ubuntu 14.04 LTS.
+
+**ATENÇÃO: AINDA É UM PROJETO EXPERIMENTAL, E RECOMENDO FORTEMENTE NÃO UTILIZAR EM AMBIENTE DE PRODUÇÃO, NÃO ME RESPONSABILIZO POR EVENTUAIS DANOS AO AMBIENTE.**
+
+
