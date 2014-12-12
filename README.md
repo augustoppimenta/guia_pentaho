@@ -59,7 +59,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do Pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server e o Administration Console.
 
-4. Inicie o PDI executando o arquivo **spoon.sh** (Linux) ou *spoon.bat** (Windows) que se encontra na pasta *data-integration*
+4. Inicie o PDI executando o arquivo **spoon.sh** (Linux) ou **spoon.bat** (Windows) que se encontra na pasta *data-integration*
 
 
 ##Schema Workbench
@@ -68,20 +68,17 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 2. Baixe o Schema Workbench (.zip para Windows ou tar.gz para Linux)
 
-3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do Pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server, Administration Console e do Data Integration.
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do Pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server, Administration Console e  o Data Integration.
 
-4. Inicie o Schema Workbench executando o arquivo **workbench.sh** (Linux) ou *workbench.bat** (Windows) que se encontra na pasta *schema-workbench*
+4. Inicie o Schema Workbench executando o arquivo **workbench.sh** (Linux) ou **workbench.bat** (Windows) que se encontra na pasta *schema-workbench*
 
 
 
 ##Outras Informações
 
-Para que as conexões com o banco de dados ocorram faz-se necessário a instalação dos repectivos Drivers.
-
+Para que as conexões com o banco de dados ocorram, faz-se necessário a instalação dos repectivos Drivers. Caso queira utilizar o PostgreSQL, siga os passos abaixo:
 
 ###Postgres
-
-Caso queira utilizar o PostgreSQL, siga os passos abaixo:
 
 1. Faça o download o JDBC do PostgreSQL [clicando aqui](http://jdbc.postgresql.org/)
 
@@ -90,3 +87,5 @@ Caso queira utilizar o PostgreSQL, siga os passos abaixo:
   - **BI Server:** /biserver-ce/tomcat/lib
   - **Administration Console :** /administration-console/jdbc
   - **Schema Workbench:** /schema-workbench/drivers
+
+####Fim!!!
