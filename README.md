@@ -30,7 +30,7 @@ Então vamos lá...
 
 4. Inicie o Pentaho executando o arquivo **start-pentaho.sh** (Linux) ou o arquivo **start-pentaho.bat** (Windows) que se encontra na pasta *biserver-ce*
 
-*Obs: Para parar o servidor, basta executar o **stop-pentaho.sh** (Linux) ou **stop-pentaho.bat** (Windows)
+*Obs: Para parar o servidor, basta executar o **stop-pentaho.sh** (Linux) ou **stop-pentaho.bat** (Windows)*
 
 5. Se tudo ocorrer como previsto, você já pode acessar o BI Server pelo endereço [http://localhost:8080/pentaho](http://localhost:8080/pentaho) e realizar o login com o usuário adminstrador:
 
@@ -44,7 +44,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 1. Inicie o serviço executando o arquivo **start-pac.sh** (Linux) **start-pac.bat** (Windows) que se encontra na pasta *administration-console*
 
-*Obs: Para parar o servidor, basta executar o **stop-pac.sh** (Linux) ou **stop-pac.bat** (Windows)
+*Obs: Para parar o servidor, basta executar o **stop-pac.sh** (Linux) ou **stop-pac.bat** (Windows)*
 
 2. Se tudo ocorrer como previsto, você já pode acessar o Administration Console pelo endereço [http://localhost:8099](http://localhost:8099) e realizar o login com o usuário adminstrador:
 
