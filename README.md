@@ -38,7 +38,7 @@ Então vamos lá...
   * Senha: password
 
 
-#Pentaho Administration Console
+##Pentaho Administration Console
 
 O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexões, gerenciar contas dos usuários, etc.
 
@@ -52,7 +52,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
   * Senha: password
 
 
-**Pentaho Data Integration
+##Pentaho Data Integration
 
 1. Acesse o diretório do Pentaho no [SouceForce](http://sourceforge.net/projects/pentaho/files/?source=navbar)
 
@@ -61,5 +61,17 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server e o Administration Console.
 
 4. Inicie o PDI executando o arquivo **spoon.sh** (Linux) ou *spoon.bat** (Windows)
+
+
+##Schema Workbench
+
+1. Acesse o diretório do Modrian no [SouceForce](http://sourceforge.net/projects/mondrian/files/?source=navbar)
+
+2. Baixe o Schema Workbench (.zip para Windows ou tar.gz para Linux)
+
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão). **Sugestão:** Colocar no mesmo diretório que se encontra o BI Server, Administration Console e do Data Integration.
+
+4. Inicie o Schema Workbench executando o arquivo **workbench.sh** (Linux) ou *workbench.bat** (Windows)
+
 
 
