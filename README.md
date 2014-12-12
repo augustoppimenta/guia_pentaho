@@ -18,6 +18,19 @@ Então vamos lá...
   * PATH
   * CLASSPATH
 
+  
+##Pentaho BI Server
+
+
+1. Acesse o diretório do Pentaho no [SouceForce](http://sourceforge.net/projects/pentaho/files/?source=navbar)
+
+2. Baixe o BI Server (.zip para Windows ou tar.gz para Linux)
+
+3. Descompacte o arquivo em uma pasta de sua preferência. (Dica: Não é recomendado a instalação do pentaho no diretório *opt*, por problemas de permissão)
+
+4. Inicie o Pentaho executando o arquivo **start-pentaho.sh** (Linux) ou o arquivo **start-pentaho.bat** (Windows)
+
+*Obs: Para parar o servidor, basta executar o **stop-pentaho.sh** (Linux) ou **stop-pentaho.bat** (Windows)
 
   
 
