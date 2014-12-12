@@ -32,7 +32,7 @@ Então vamos lá...
 
 **Obs:** Para parar o servidor, basta executar o *stop-pentaho.sh* (Linux) ou **stop-pentaho.bat* (Windows)
 
- Se tudo ocorrer como previsto, você já pode acessar o BI Server pelo endereço [http://localhost:8080/pentaho](http://localhost:8080/pentaho) e realizar o login com o usuário adminstrador:
+5. Se tudo ocorrer como previsto, você já pode acessar o BI Server pelo endereço [http://localhost:8080/pentaho](http://localhost:8080/pentaho) e realizar o login com o usuário adminstrador:
 
   * Usuário: joe
   * Senha: password
@@ -46,7 +46,7 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
 
 **Obs:** Para parar o servidor, basta executar o *stop-pac.sh* (Linux) ou *stop-pac.bat* (Windows)
 
- Se tudo ocorrer como previsto, você já pode acessar o Administration Console pelo endereço [http://localhost:8099](http://localhost:8099) e realizar o login com o usuário adminstrador:
+2. Se tudo ocorrer como previsto, você já pode acessar o Administration Console pelo endereço [http://localhost:8099](http://localhost:8099) e realizar o login com o usuário adminstrador:
 
   * Usuário: admin
   * Senha: password
