@@ -88,5 +88,5 @@ Caso queira utilizar o PostgreSQL, siga os passos abaixo:
 2. Adicione-o nos seguintes diretórios:
 
   - **BI Server:** /biserver-ce/tomcat/lib
-  - ** Administration Console :** /administration-console/jdbc
+  - **Administration Console :** /administration-console/jdbc
   - **Schema Workbench:** /schema-workbench/drivers
