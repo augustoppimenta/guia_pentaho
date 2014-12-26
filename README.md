@@ -48,6 +48,11 @@ O BI Server possui um Paniel Adminstrativo, onde é possível adicionar conexõe
   * Usuário: admin
   * Senha: password
 
+**Obs.:** Caso queira ter acesso como o Business User, realize o login com o usuário abaixo:
+
+  * User Name: suzy
+  * Password: password
+
 **Obs.:** Para parar o servidor, basta executar o *stop-pac.sh* (Linux) ou *stop-pac.bat* (Windows)
 
 
