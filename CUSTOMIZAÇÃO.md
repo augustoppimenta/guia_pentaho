@@ -29,6 +29,11 @@ Para customizar a tela inicial do pentaho o arquivo principal é o mantle.jsp qu
 **Menu** (Arquivo – Visualizar – Ferramentas – Ajuda): adicionar a propriedade “display:none;” na tag .gwt-MenuBar { do arquivo Widgets.css no diretório /opt/pentaho/biserver-ce/tomcat/webapps/pentaho/mantle
 
 
+###RESULTADO
+
+![Login](/img/login.png)
+![Inicial](/img/inicial.png)
+
 
 *FONTE: [https://pentahobrazil.wordpress.com](https://pentahobrazil.wordpress.com/2014/06/12/customizacao-do-layout-das-paginas-principais-do-pentaho-tela-de-login-e-tela-inicial/)*
 
